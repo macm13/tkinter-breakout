@@ -1,0 +1,6 @@
+Title: tkbreakout.py
+
+What: Breakout clone game.
+
+Why: Made with the built-in library and three imports in under 100 lines of code. Just to see if I could.
+
